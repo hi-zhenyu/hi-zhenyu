@@ -1,10 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://hi-zhenyu.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://hi-zhenyu.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-05-20T09:20:26+00:00</updated><id>https://hi-zhenyu.github.io/feed.xml</id><title type="html">Zhenyu Huang</title><subtitle>Zhenyu&apos;s Personal Website.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://hi-zhenyu.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://hi-zhenyu.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-05-20T09:28:40+00:00</updated><id>https://hi-zhenyu.github.io/feed.xml</id><title type="html">Zhenyu Huang</title><subtitle>Zhenyu&apos;s Personal Website.
 </subtitle><entry><title type="html">科研工具分享</title><link href="https://hi-zhenyu.github.io/blog/2023/research-tools/" rel="alternate" type="text/html" title="科研工具分享" /><published>2023-05-12T19:53:00+00:00</published><updated>2023-05-12T19:53:00+00:00</updated><id>https://hi-zhenyu.github.io/blog/2023/research-tools</id><content type="html" xml:base="https://hi-zhenyu.github.io/blog/2023/research-tools/"><![CDATA[<p>分享一些自用的科研、学习工具</p>
 
 <h3 id="文献相关">文献相关</h3>
+
 <h4 id="管理">管理</h4>
-<p>全平台推荐：<a href="https://github.com/zotero/zotero">Zotero</a> （免费）
-Mac 上推荐：<a href="https://www.papersapp.com/">Papers</a> （收费）</p>
+
+<p><a href="https://github.com/zotero/zotero">Zotero</a></p>
+<ul>
+  <li>全平台推荐，免费</li>
+</ul>
+
+<p><a href="https://www.papersapp.com/">Papers</a></p>
+<ul>
+  <li>Mac 上推荐，收费</li>
+</ul>
 
 <p><a href="https://www.easyscholar.cc/">easyScholar | 显示期刊等级\SCI分区</a></p>
 <ul>
@@ -12,16 +21,23 @@ Mac 上推荐：<a href="https://www.papersapp.com/">Papers</a> （收费）</p>
 </ul>
 
 <h4 id="阅读">阅读</h4>
+
 <p><a href="https://obsidian.md/">Obsidian</a></p>
 <ul>
-  <li>笔记记录、PDF 阅读&amp;标注
-<a href="https://relingo.net/en/index">Relingo</a></li>
+  <li>笔记记录、PDF 阅读&amp;标注</li>
+</ul>
+
+<p><a href="https://relingo.net/en/index">Relingo</a></p>
+<ul>
   <li>Chrome 插件，划词翻译、生词标注</li>
 </ul>
+
+<hr />
 
 <h3 id="论文写作">论文写作</h3>
 
 <h4 id="英语相关">英语相关</h4>
+
 <p><a href="https://www.phrasebank.manchester.ac.uk/">Academic Phrasebank | The University of Manchester</a></p>
 <ul>
   <li><strong>Academic Phrasebank 是一个专门针对学术论文写作的词句模板库</strong>。它归纳总结了不同章节、不同目的的学术写作短语和句型。网站总共分为6大板块，并且介绍了每个版块在英文中的含义、作用以及常用的写作方式，而且还为不同的场景罗列出许多例句以供参考使用，帮助用户快速学习如何写 Intro、如何表达观点、如何总结等。</li>
@@ -58,12 +74,15 @@ Mac 上推荐：<a href="https://www.papersapp.com/">Papers</a> （收费）</p>
 <h4 id="图表相关">图表相关</h4>
 
 <h5 id="数据图表">数据图表</h5>
+
 <p>简单&amp;方便：Excel、MATLAB 等
 需要编程：Matplotlib、Plotly、Echarts</p>
 
 <h5 id="示意图">示意图</h5>
-<p>简单&amp;方便：PPT
-需要学习：Figma (国外) / Pixso（国内）</p>
+
+<p>简单&amp;方便：PPT</p>
+
+<p>需要学习：Figma (国外) / Pixso（国内）</p>
 
 <p>Figma 和 Pixso 本质是 UI 原型设计工具，也能用于算法模型等示意图制作, 可方便导出为矢量图、PDF。</p>
 
@@ -83,7 +102,7 @@ Mac 上推荐：<a href="https://www.papersapp.com/">Papers</a> （收费）</p>
 
 <h4 id="latex-相关">Latex 相关</h4>
 
-<p>Overleaf</p>
+<p><a href="https://www.overleaf.com/">Overleaf, Online LaTeX Editor</a></p>
 <ul>
   <li>在线、可协作的 LaTex 网站，支持海量模版</li>
 </ul>
@@ -93,7 +112,7 @@ Mac 上推荐：<a href="https://www.papersapp.com/">Papers</a> （收费）</p>
   <li>截图识别公式，并转化为 LaTeX 代码</li>
 </ul>
 
-<p>Tablesgenerator</p>
+<p><a href="https://www.tablesgenerator.com/">Create LaTeX tables online</a></p>
 <ul>
   <li>根据需求快速生成 Table 的 LaTeX 代码</li>
 </ul>
@@ -103,7 +122,7 @@ Mac 上推荐：<a href="https://www.papersapp.com/">Papers</a> （收费）</p>
   <li>忘记某些字符用 LaTeX 怎么表示时，可以在这个网站上通过手写来查询</li>
 </ul>
 
-<p><a href="https://webdemo.myscript.com/">MyScript Webdemo</a></p>
+<p><a href="https://webdemo.myscript.com/">MyScript</a></p>
 <ul>
   <li>将手写公式转为 LaTeX 代码；</li>
   <li>将手绘的框图转化为工整的框图。</li>
@@ -115,7 +134,10 @@ Mac 上推荐：<a href="https://www.papersapp.com/">Papers</a> （收费）</p>
   <li>推荐阅读： <a href="https://zhuanlan.zhihu.com/p/148876880">如何将excel表格导入latex中 - 知乎</a></li>
 </ul>
 
+<hr />
+
 <h3 id="个人知识笔记管理">个人知识&amp;笔记管理</h3>
+
 <p>Obsidian</p>
 <ul>
   <li>免费</li>
@@ -128,23 +150,13 @@ Mac 上推荐：<a href="https://www.papersapp.com/">Papers</a> （收费）</p>
 
 <h3 id="one-more">One More</h3>
 
-<blockquote>
-  <p>健康的身体才是最好的工具
-推荐阅读：</p>
-  <ul>
-    <li><a href="https://github.com/zijie0/HumanSystemOptimization">GitHub - zijie0/HumanSystemOptimization: 健康学习到150岁 - 人体系统调优不完全指南</a></li>
-    <li>
-      <table>
-        <tbody>
-          <tr>
-            <td>[GitHub - geekan/HowToLiveLonger: 程序员延寿指南</td>
-            <td>A programmer’s guide to live longer](https://github.com/geekan/HowToLiveLonger)</td>
-          </tr>
-        </tbody>
-      </table>
-    </li>
-  </ul>
-</blockquote>
+<p><strong>健康的身体才是最好的工具</strong></p>
+
+<p>推荐阅读：</p>
+<ul>
+  <li><a href="https://github.com/zijie0/HumanSystemOptimization">GitHub - zijie0/HumanSystemOptimization: 健康学习到150岁</a></li>
+  <li><a href="https://github.com/geekan/HowToLiveLonger">GitHub - geekan/HowToLiveLonger: 程序员延寿指南</a></li>
+</ul>
 
 <h2 id="参考链接">参考链接</h2>
 <p><a href="https://github.com/bighuang624/AI-research-tools">GitHub - bighuang624/AI-research-tools: AI 方向好用的科研工具</a></p>]]></content><author><name></name></author><category term="tool" /><category term="research" /><summary type="html"><![CDATA[分享一些好用的科研、写作和笔记工具]]></summary></entry><entry><title type="html">a distill-style blog post</title><link href="https://hi-zhenyu.github.io/blog/2021/distll-template/" rel="alternate" type="text/html" title="a distill-style blog post" /><published>2021-05-22T00:00:00+00:00</published><updated>2021-05-22T00:00:00+00:00</updated><id>https://hi-zhenyu.github.io/blog/2021/distll-template</id><content type="html" xml:base="https://hi-zhenyu.github.io/blog/2021/distll-template/"><![CDATA[<h2 id="equations">Equations</h2>
