@@ -2,7 +2,7 @@
 layout: distill
 title: a distill-style blog post
 description: an example of a distill-style blog post and main elements
-giscus_comments: true
+giscus_comments: false
 date: 2021-05-22
 
 authors:
