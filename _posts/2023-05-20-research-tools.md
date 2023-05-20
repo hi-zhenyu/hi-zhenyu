@@ -50,6 +50,7 @@ toc:
 
 [Grammarly: Free Writing AI Assistance](https://www.grammarly.com/)
 - 英语语法检查工具
+
 [Acronymify! - Automatically generate fun acronyms for your project](https://acronymify.com/)
 - 为项目、方法、模型生成一个缩写名称
 
@@ -67,6 +68,7 @@ toc:
 ##### 数据图表
 
 简单&方便：Excel、MATLAB 等
+
 需要编程：Matplotlib、Plotly、Echarts
 
 ##### 示意图
@@ -116,7 +118,7 @@ Figma 和 Pixso 本质是 UI 原型设计工具，也能用于算法模型等示
 
 ## 个人知识&笔记管理
 
-Obsidian
+[Obsidian](https://obsidian.md/)
 - 免费
 - 基于Markdown格式
 - 提供双向链接
@@ -125,9 +127,10 @@ Obsidian
 - 推荐阅读：[如何构建自己的笔记系统？ - 知乎](https://www.zhihu.com/question/23427617/answer/1461195696)
 
 
-### One More
+---
+## One More
 
-**健康的身体才是最好的工具**
+**健康的身体才是你最好的工具**
 
 推荐阅读：
 - [GitHub - zijie0/HumanSystemOptimization: 健康学习到150岁](https://github.com/zijie0/HumanSystemOptimization) 
