@@ -42,7 +42,7 @@ toc:
 #### 英语相关
 
 [Academic Phrasebank | The University of Manchester](https://www.phrasebank.manchester.ac.uk/)
-- **Academic Phrasebank 是一个专门针对学术论文写作的词句模板库**。它归纳总结了不同章节、不同目的的学术写作短语和句型。网站总共分为6大板块，并且介绍了每个版块在英文中的含义、作用以及常用的写作方式，而且还为不同的场景罗列出许多例句以供参考使用，帮助用户快速学习如何写 Intro、如何表达观点、如何总结等。
+- Academic Phrasebank 是一个专门针对学术论文写作的词句模板库。它归纳总结了不同章节、不同目的的学术写作短语和句型。
 
 [English-Corpora: COCA](https://www.english-corpora.org/coca/)
 - 提供以下功能：确认表达是否地道；确定单词的使用语境；比较近义词的区别；寻找合适的用词；寻找句式
@@ -73,15 +73,20 @@ toc:
 
 ##### 示意图
 
-简单&方便：PPT
+简单&方便：
+- PPT
+- [draw.io](https://draw.io)
 
-需要学习：Figma (国外) / Pixso（国内）
+需要学习：
+- [Figma](https://figma.com) (国外) 
+- [Pixso](https://pixso.cn/) （国内）
 
 Figma 和 Pixso 本质是 UI 原型设计工具，也能用于算法模型等示意图制作, 可方便导出为矢量图、PDF。
 
 ##### 素材&矢量图转化
 [iconfont-阿里巴巴矢量图标库](https://www.iconfont.cn/)
 - 提供免费的矢量图标素材
+
 [Vectorizer.AI](https://vectorizer.ai/)
 - 将位图转化为矢量图
 
