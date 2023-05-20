@@ -67,9 +67,14 @@ toc:
 
 ##### 数据图表
 
-简单&方便：Excel、MATLAB 等
+简单&方便：
+- Excel
+- MATLAB 等
 
-需要编程：Matplotlib、Plotly、Echarts
+需要编程：
+- [Matplotlib](https://matplotlib.org/)
+- [Plotly](https://plotly.com/python/)
+- [Echarts](https://echarts.apache.org/en/index.html)
 
 ##### 示意图
 
@@ -90,11 +95,7 @@ Figma 和 Pixso 本质是 UI 原型设计工具，也能用于算法模型等示
 [Vectorizer.AI](https://vectorizer.ai/)
 - 将位图转化为矢量图
 
-
-> ##### TIP
->
 > 图表最好保存为矢量图，以 PDF 格式导入LaTeX，保证清晰
-{: .block-tip }
 
 
 #### Latex 相关
