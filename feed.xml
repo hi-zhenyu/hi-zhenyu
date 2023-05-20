@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://hi-zhenyu.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://hi-zhenyu.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-05-20T09:29:41+00:00</updated><id>https://hi-zhenyu.github.io/feed.xml</id><title type="html">Zhenyu Huang</title><subtitle>Zhenyu&apos;s Personal Website.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://hi-zhenyu.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://hi-zhenyu.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-05-20T09:35:38+00:00</updated><id>https://hi-zhenyu.github.io/feed.xml</id><title type="html">Zhenyu Huang</title><subtitle>Zhenyu&apos;s Personal Website.
 </subtitle><entry><title type="html">科研工具分享</title><link href="https://hi-zhenyu.github.io/blog/2023/research-tools/" rel="alternate" type="text/html" title="科研工具分享" /><published>2023-05-12T19:53:00+00:00</published><updated>2023-05-12T19:53:00+00:00</updated><id>https://hi-zhenyu.github.io/blog/2023/research-tools</id><content type="html" xml:base="https://hi-zhenyu.github.io/blog/2023/research-tools/"><![CDATA[<p>分享一些自用的科研、学习工具</p>
 
 <h2 id="文献相关">文献相关</h2>
@@ -51,8 +51,11 @@
 
 <p><a href="https://www.grammarly.com/">Grammarly: Free Writing AI Assistance</a></p>
 <ul>
-  <li>英语语法检查工具
-<a href="https://acronymify.com/">Acronymify! - Automatically generate fun acronyms for your project</a></li>
+  <li>英语语法检查工具</li>
+</ul>
+
+<p><a href="https://acronymify.com/">Acronymify! - Automatically generate fun acronyms for your project</a></p>
+<ul>
   <li>为项目、方法、模型生成一个缩写名称</li>
 </ul>
 
@@ -75,8 +78,9 @@
 
 <h5 id="数据图表">数据图表</h5>
 
-<p>简单&amp;方便：Excel、MATLAB 等
-需要编程：Matplotlib、Plotly、Echarts</p>
+<p>简单&amp;方便：Excel、MATLAB 等</p>
+
+<p>需要编程：Matplotlib、Plotly、Echarts</p>
 
 <h5 id="示意图">示意图</h5>
 
@@ -138,7 +142,7 @@
 
 <h2 id="个人知识笔记管理">个人知识&amp;笔记管理</h2>
 
-<p>Obsidian</p>
+<p><a href="https://obsidian.md/">Obsidian</a></p>
 <ul>
   <li>免费</li>
   <li>基于Markdown格式</li>
@@ -148,9 +152,10 @@
   <li>推荐阅读：<a href="https://www.zhihu.com/question/23427617/answer/1461195696">如何构建自己的笔记系统？ - 知乎</a></li>
 </ul>
 
-<h3 id="one-more">One More</h3>
+<hr />
+<h2 id="one-more">One More</h2>
 
-<p><strong>健康的身体才是最好的工具</strong></p>
+<p><strong>健康的身体才是你最好的工具</strong></p>
 
 <p>推荐阅读：</p>
 <ul>
