@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://hi-zhenyu.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://hi-zhenyu.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-05-20T09:28:40+00:00</updated><id>https://hi-zhenyu.github.io/feed.xml</id><title type="html">Zhenyu Huang</title><subtitle>Zhenyu&apos;s Personal Website.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://hi-zhenyu.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://hi-zhenyu.github.io/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-05-20T09:29:41+00:00</updated><id>https://hi-zhenyu.github.io/feed.xml</id><title type="html">Zhenyu Huang</title><subtitle>Zhenyu&apos;s Personal Website.
 </subtitle><entry><title type="html">科研工具分享</title><link href="https://hi-zhenyu.github.io/blog/2023/research-tools/" rel="alternate" type="text/html" title="科研工具分享" /><published>2023-05-12T19:53:00+00:00</published><updated>2023-05-12T19:53:00+00:00</updated><id>https://hi-zhenyu.github.io/blog/2023/research-tools</id><content type="html" xml:base="https://hi-zhenyu.github.io/blog/2023/research-tools/"><![CDATA[<p>分享一些自用的科研、学习工具</p>
 
-<h3 id="文献相关">文献相关</h3>
+<h2 id="文献相关">文献相关</h2>
 
 <h4 id="管理">管理</h4>
 
@@ -34,7 +34,7 @@
 
 <hr />
 
-<h3 id="论文写作">论文写作</h3>
+<h2 id="论文写作">论文写作</h2>
 
 <h4 id="英语相关">英语相关</h4>
 
@@ -136,7 +136,7 @@
 
 <hr />
 
-<h3 id="个人知识笔记管理">个人知识&amp;笔记管理</h3>
+<h2 id="个人知识笔记管理">个人知识&amp;笔记管理</h2>
 
 <p>Obsidian</p>
 <ul>
