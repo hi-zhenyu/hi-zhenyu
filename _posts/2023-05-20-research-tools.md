@@ -15,22 +15,32 @@ toc:
 
 
 ### 文献相关
+
 #### 管理
-全平台推荐：[Zotero](https://github.com/zotero/zotero) （免费）
-Mac 上推荐：[Papers](https://www.papersapp.com/) （收费）
+
+[Zotero](https://github.com/zotero/zotero)
+- 全平台推荐，免费
+
+[Papers](https://www.papersapp.com/)
+- Mac 上推荐，收费
 
 [easyScholar | 显示期刊等级\\SCI分区](https://www.easyscholar.cc/)
 - Chrome 插件，标注论文的期刊信息、等级、引用等
 
 #### 阅读
+
 [Obsidian](https://obsidian.md/)
 - 笔记记录、PDF 阅读&标注
+
 [Relingo](https://relingo.net/en/index)
 - Chrome 插件，划词翻译、生词标注
+
+---
 
 ### 论文写作
 
 #### 英语相关
+
 [Academic Phrasebank | The University of Manchester](https://www.phrasebank.manchester.ac.uk/)
 - **Academic Phrasebank 是一个专门针对学术论文写作的词句模板库**。它归纳总结了不同章节、不同目的的学术写作短语和句型。网站总共分为6大板块，并且介绍了每个版块在英文中的含义、作用以及常用的写作方式，而且还为不同的场景罗列出许多例句以供参考使用，帮助用户快速学习如何写 Intro、如何表达观点、如何总结等。
 
@@ -55,11 +65,14 @@ Mac 上推荐：[Papers](https://www.papersapp.com/) （收费）
 #### 图表相关
 
 ##### 数据图表
+
 简单&方便：Excel、MATLAB 等
 需要编程：Matplotlib、Plotly、Echarts
 
 ##### 示意图
+
 简单&方便：PPT
+
 需要学习：Figma (国外) / Pixso（国内）
 
 Figma 和 Pixso 本质是 UI 原型设计工具，也能用于算法模型等示意图制作, 可方便导出为矢量图、PDF。
@@ -79,19 +92,19 @@ Figma 和 Pixso 本质是 UI 原型设计工具，也能用于算法模型等示
 
 #### Latex 相关
 
-Overleaf
+[Overleaf, Online LaTeX Editor](https://www.overleaf.com/)
 - 在线、可协作的 LaTex 网站，支持海量模版
 
 [Mathpix](https://mathpix.com/)
 - 截图识别公式，并转化为 LaTeX 代码
 
-Tablesgenerator
+[Create LaTeX tables online](https://www.tablesgenerator.com/)
 - 根据需求快速生成 Table 的 LaTeX 代码
 
 [Detexify LaTeX handwritten symbol recognition](http://detexify.kirelabs.org/classify.html)
 - 忘记某些字符用 LaTeX 怎么表示时，可以在这个网站上通过手写来查询
 
-[MyScript Webdemo](https://webdemo.myscript.com/)
+[MyScript](https://webdemo.myscript.com/)
 - 将手写公式转为 LaTeX 代码；
 - 将手绘的框图转化为工整的框图。
 
@@ -99,8 +112,10 @@ Tablesgenerator
 - 将 Excel 转化为 LaTeX 代码
 - 推荐阅读： [如何将excel表格导入latex中 - 知乎](https://zhuanlan.zhihu.com/p/148876880)
 
+---
 
 ### 个人知识&笔记管理
+
 Obsidian
 - 免费
 - 基于Markdown格式
@@ -112,10 +127,11 @@ Obsidian
 
 ### One More
 
-> 健康的身体才是最好的工具
-> 推荐阅读：
-> - [GitHub - zijie0/HumanSystemOptimization: 健康学习到150岁 - 人体系统调优不完全指南](https://github.com/zijie0/HumanSystemOptimization) 
-> - [GitHub - geekan/HowToLiveLonger: 程序员延寿指南 | A programmer's guide to live longer](https://github.com/geekan/HowToLiveLonger)
+**健康的身体才是最好的工具**
+
+推荐阅读：
+- [GitHub - zijie0/HumanSystemOptimization: 健康学习到150岁](https://github.com/zijie0/HumanSystemOptimization) 
+- [GitHub - geekan/HowToLiveLonger: 程序员延寿指南](https://github.com/geekan/HowToLiveLonger)
 
 
 
